@@ -1,6 +1,6 @@
 import cv2
 
-# Masaüstündeki gri fotoğrafın tam yolu
+# Masaüstündeki fotoğrafın yolu
 dosya_yolu = "/Users/macbook/Desktop/gri.jpeg"
 
 goruntu = cv2.imread(dosya_yolu)
